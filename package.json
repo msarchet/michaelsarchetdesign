@@ -1,0 +1,24 @@
+{
+  "name": "michaelsarchetdesign",
+  "version": "0.1.0",
+  "description": "Personal Website and such",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js && cd client && yarn && yarn build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msarchet/michaelsarchetdesign.git"
+  },
+  "author": "michael@michaelsarchetdesign.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msarchet/michaelsarchetdesign/issues"
+  },
+  "homepage": "https://github.com/msarchet/michaelsarchetdesign#readme",
+  "dependencies": {
+    "@hapi/hapi": "^19.2.0",
+    "@hapi/inert": "^6.0.1"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "header": {
+        "title": "Michael Sarchet Design",
+        "logo": "logo.svg",
+        "links": [
+            { "text": "Main", "uri": "/" }
+        ]
+    },
+    "footer": {
+        "left-text": "Made by Michael Sarchet"
+    },
+    "sidebar": {
+        "pages": [
+            { "name": "Main", "uri": "/"},
+            { "name": "Art", "uri": "/Art"},
+            { "name": "Videos", "uri": "/Videos"},
+            { "name": "Writings", "uri": "/Writings"}
+        ]
+    }
+}
